@@ -2,7 +2,7 @@
 
 ## InClassHomeWork Week3 LifeCycle 설명
 
-### 동영상 주소 : 
+### 동영상 주소 : https://youtu.be/fg3ieK3W5Mc
 
 ### 실행결과
 
