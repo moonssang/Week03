@@ -1,11 +1,11 @@
 # Week03
 
 ## InClassHomeWork Week3 
-### 활동내용 : phone을 조작하여 어떤 callback 함수들이 호출되는지 확인하기
+### - 활동내용 : phone을 조작하여 어떤 callback 함수들이 호출되는지 확인하기
 
-### 동영상 주소 : https://youtu.be/fg3ieK3W5Mc
+### - 동영상 주소 : https://youtu.be/fg3ieK3W5Mc
 
-### 실행결과
+### - 실행결과
 
 #### 1. application 실행
 
